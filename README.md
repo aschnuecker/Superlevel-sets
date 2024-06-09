@@ -4,7 +4,8 @@ License Batch:
 -->
 
 # Contents
-This README.md provides instructions for replicating the paper **On superlevel sets of conditional densities and multivariate quantile regression**.
+This repository contains the (Matlab and Julia) codes and instructions needed to replicate the results of the paper: 
+> Camehl, A., Fok, D., & Gruber, K. (2024). On superlevel sets of conditional densities and multivariate quantile regression. *Journal of Econometrics*. 
 
 # Usage
 
@@ -16,8 +17,6 @@ The code is available as open source under the terms of the ADD HERE license.
 
 # Citation
 If you make use of our code for your work we would appreciate it if you would cite the corresponding paper:
-
-> Camehl, A., Fok, D., & Gruber, K. (2024). On superlevel sets of conditional densities and multivariate quantile regression. *Journal of Econometrics*. 
 
 ```
 @article{
