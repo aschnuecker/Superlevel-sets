@@ -9,7 +9,7 @@ This README.md provides instructions for replicating Sections 2, 5 and 6 of the 
 # Usage
 
 # Data
-The data used in the paper and available on this repository are a subset of households from the  U.S. Consumer Expenditure Survey collected by the Bureau of Labor Statistics in 2015. The corresponding survey interview files are public available via https://www.bls.gov/cex/pumd_data.htm. 
+The data used in the paper and available on this repository are a subset of households from the  U.S. Consumer Expenditure Survey collected by the Bureau of Labor Statistics in 2015. The corresponding survey interview files are public available via https://www.bls.gov/cex/pumd_data.htm. The analysis is based on the variable labels: \texttt{houspq} (housing), \texttt{foodpq} (food), \texttt{utilpq} (utilities) and \texttt{fincbtxm} (income before taxes).
  
 # License
 The code is available as open source under the terms of the ADD HERE license.
