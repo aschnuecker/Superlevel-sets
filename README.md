@@ -4,7 +4,7 @@ License Batch:
 -->
 
 # Contents
-This repository contains the (Matlab and Julia) codes and instructions needed to replicate the results in Sections 2, 5 and 6 of *On superlevel sets of conditional densities and multivariate quantile regression*.
+This repository contains the Matlab and Julia codes as well as additional instructions to replicate the results shown in Sections 2, 5 and 6 of *On superlevel sets of conditional densities and multivariate quantile regression*.
 
 # Usage
 
