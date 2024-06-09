@@ -15,7 +15,7 @@ The data used in the paper and available on this repository are a subset of hous
 The code is available as open source under the terms of the ADD HERE license.
 
 # Citation
-Please cite the following paper if you found our model useful. Thanks!
+If you make use of our code for your work we would appreciate it if you would cite the corresponding paper:
 
 > Camehl, A., Fok, D., & Gruber, K. (2024). On superlevel sets of conditional densities and multivariate quantile regression. *Journal of Econometrics*. 
 
