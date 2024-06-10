@@ -12,7 +12,7 @@ This repository contains the Matlab and Julia codes as well as additional instru
 The data are a subset of households from the  U.S. Consumer Expenditure Survey collected by the Bureau of Labor Statistics in 2015. (The full survey interview files are public available via https://www.bls.gov/cex/pumd_data.htm). The analysis in Section 6 is based on the variable labels: `houspq` (housing), `foodpq` (food), `utilpq` (utilities) and `fincbtxm` (income before taxes).
  
 # License
-The code is available as open source under the terms of the ADD HERE license.
+The code is available as open source under the terms of the GPL-3.0 license.
 
 # Citation
 If you make use of our code for your work we would appreciate it if you would cite the corresponding paper:
