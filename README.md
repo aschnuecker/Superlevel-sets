@@ -96,7 +96,7 @@ Alternatively one can use (for example) VSCode and execute the different functio
 # 5. List of figures and tables
 
 | Figure/Table | Program file | Lines |  
-|----------|-------|  
+|--------------|--------------|-------|  
 |Figure 1 | `GenerateFigures.jl` | 19--88 | 
 |Figure 2 | `GenerateFigures.jl`| 90--141|  
 |Table 2 | `QR_Simulation.m` | 320--327|  
